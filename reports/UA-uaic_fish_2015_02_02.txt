@@ -1,0 +1,98 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 383
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-05 ; Times: 7
+	Date: 2015-01-06 ; Times: 2
+	Date: 2015-01-09 ; Times: 3
+	Date: 2015-01-13 ; Times: 1
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-19 ; Times: 2
+	Date: 2015-01-21 ; Times: 2
+	Date: 2015-01-25 ; Times: 1
+	Date: 2015-01-27 ; Times: 3
+	Date: 2015-01-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Alleghany" stateprovince:"North Carolina" specificepithet:rupestris genus:Ambloplites year >= 1888 year <= 2014" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "Amazonsprattus scintilla" ; Times: 1
+	Query: "wilson creek caldwell county" ; Times: 1
+	Query: "specificepithet:alosoides genus:Hiodon mappable:1" ; Times: 3
+	Query: "Wilson Caldwell County" ; Times: 1
+	Query: "ophidion marginatum" ; Times: 1
+	Query: "Swingle" ; Times: 1
+	Query: "institutioncode:ua" ; Times: 1
+	Query: "Alabama Alligator" ; Times: 1
+	Query: "county:"Grayson" stateprovince:"Virginia" specificepithet:rupestris genus:Ambloplites year >= 1888 year <= 2014" ; Times: 1
+	Query: "county:"White" stateprovince:"Tennessee"" ; Times: 2
+	Query: "Hiodon alosoides" ; Times: 1
+	Query: "nocomis biguttatus" ; Times: 1
+	Query: "salvelinus fontinalis" ; Times: 2
+	Query: "Alligator (Alabama)" ; Times: 1
+	Query: "Microlophus tissue:1" ; Times: 2
+	Query: "wilson caldwell county" ; Times: 2
+	Query: "Juchipila Zacatecas" ; Times: 1
+	Query: "UA" ; Times: 1
+	Query: "Branchiostoma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 445 download events in this period)
+Total number of records downloaded: 50 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 50
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "county:"Stanley" stateprovince:"south dakota"" ; Times: 1
+	Query: "jalpa zacatecas" ; Times: 1
+	Query: "w-nigrum" ; Times: 1
+	Query: "Cuatro Cienegas" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 91
+Total number of records retrieved from searches: 1489
+Number of download events that retrieved data from the resource: 6
+Total number of records downloaded: 50
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 118
+Total number of records retrieved from searches: 1872
+Number of download events that retrieved data from the resource: 24
+Total number of records downloaded: 881
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
