@@ -1,0 +1,97 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 322
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-07 ; Times: 5
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 4
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-26 ; Times: 4
+	Date: 2015-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cave stateprovince:"Georgia" year >= 1700 year <= 2015" ; Times: 1
+	Query: "county:"Tunica" stateprovince:"Mississippi"" ; Times: 1
+	Query: "Catostomus catostomus tissue:1" ; Times: 1
+	Query: "11092" ; Times: 1
+	Query: "erimystax cahni" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "county:"fannin" stateprovince:"georgia" genus:percina" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 1
+	Query: "county:"tazewell" stateprovince:"virginia" genus:etheostoma" ; Times: 1
+	Query: "trempealeau" ; Times: 1
+	Query: "institutioncode:ua" ; Times: 1
+	Query: "erimystax" ; Times: 1
+	Query: "narcine brasiliensis" ; Times: 3
+	Query: "elasson" ; Times: 1
+	Query: "county:"allen" stateprovince:"kentucky" genus:etheostoma" ; Times: 1
+	Query: "county:"allen" stateprovince:"kentucky" genus:noturus" ; Times: 1
+	Query: "county:"warren" stateprovince:"tennessee" genus:etheostoma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 976 download events in this period)
+Total number of records downloaded: 1066 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1066
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cave stateprovince:"Georgia" year >= 1700 year <= 2015" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "Etheostoma caeruleum" ; Times: 1
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "narcine brasiliensis" ; Times: 1
+	Query: "laticauda" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 128
+Total number of records retrieved from searches: 2033
+Number of download events that retrieved data from the resource: 24
+Total number of records downloaded: 2848
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 155
+Total number of records retrieved from searches: 2416
+Number of download events that retrieved data from the resource: 42
+Total number of records downloaded: 3679
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
