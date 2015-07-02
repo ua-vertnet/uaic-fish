@@ -1,0 +1,134 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 613
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 53
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 3
+	Date: 2015-06-04 ; Times: 1
+	Date: 2015-06-08 ; Times: 7
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 5
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-22 ; Times: 4
+	Date: 2015-06-23 ; Times: 11
+	Date: 2015-06-24 ; Times: 18
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyprinella gibbsi coosa" ; Times: 1
+	Query: "bankhead national forest" ; Times: 4
+	Query: "pteronotropis euryzonus" ; Times: 1
+	Query: "rio urique chihuahua" ; Times: 1
+	Query: "Notropis uranoscopus coosa river" ; Times: 1
+	Query: "Cyprinella caerulea coosa" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:bdellium genus:ichthyomyzon" ; Times: 1
+	Query: ""adinia xenica" stateprovince:"Louisiana" mappable:1" ; Times: 1
+	Query: "Hybognathus hayi tallapoosa river" ; Times: 3
+	Query: "Rhinoptera" ; Times: 1
+	Query: "Hybopsis amblops coosa river" ; Times: 1
+	Query: "Oregonichthys crameri" ; Times: 1
+	Query: "Hybopsis amblops tallapoosa river" ; Times: 2
+	Query: "Campostoma pauciradii tallapoosa" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:carolinae genus:cottus" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:volucellus genus:notropis" ; Times: 1
+	Query: "wheeler national wildlife refuge" ; Times: 1
+	Query: "Cyprinella gibbsi tallapoosa river" ; Times: 2
+	Query: "35696" ; Times: 4
+	Query: "Notropis albizonatus" ; Times: 2
+	Query: "Lythrurus lirus tallapoosa river" ; Times: 1
+	Query: "heterodon distance(location,geopoint(41.73033005046653,-83.49609375))<100000" ; Times: 1
+	Query: "Notropis uranoscopus tallapoosa river" ; Times: 1
+	Query: "Campostoma pauciradii alabama" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:podostemone genus:etheostoma" ; Times: 1
+	Query: "Okaloosae" ; Times: 1
+	Query: "franklin alabama" ; Times: 1
+	Query: "Hybopsis lineapunctata tallapoosa river" ; Times: 1
+	Query: "catenatus missouri" ; Times: 6
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:waccamensis genus:fundulus" ; Times: 2
+	Query: "percina rex" ; Times: 1
+	Query: "Pristis pristis" ; Times: 1
+	Query: "12243" ; Times: 1
+	Query: "Lythrurus lirus coosa river" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "Luxilus zonistius tallapoosa river" ; Times: 2
+	Query: "pristis pristis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1524 download events in this period)
+Total number of records downloaded: 3580 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3077
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Guatemala ; Times: 1
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 4
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-17 ; Times: 2
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "turkey" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "country:"United States" genus:Ictalurus" ; Times: 1
+	Query: "pteronotropis euryzonus" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:carolinae genus:cottus" ; Times: 1
+	Query: "cave alabama" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:volucellus genus:notropis" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:podostemone genus:etheostoma" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:waccamensis genus:fundulus" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:bdellium genus:ichthyomyzon" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "percina rex" ; Times: 1
+	Query: ""adinia xenica" stateprovince:"Louisiana" mappable:1" ; Times: 1
+	Query: "country:"United States" genus:ictalurus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 187
+Total number of records retrieved from searches: 2646
+Number of download events that retrieved data from the resource: 44
+Total number of records downloaded: 6428
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 214
+Total number of records retrieved from searches: 3029
+Number of download events that retrieved data from the resource: 62
+Total number of records downloaded: 7259
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
