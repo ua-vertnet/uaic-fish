@@ -1,0 +1,141 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 2527
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 10
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 74
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-06 ; Times: 34
+	Date: 2015-07-08 ; Times: 3
+	Date: 2015-07-09 ; Times: 8
+	Date: 2015-07-10 ; Times: 4
+	Date: 2015-07-11 ; Times: 4
+	Date: 2015-07-13 ; Times: 1
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-17 ; Times: 5
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 2
+	Date: 2015-07-23 ; Times: 4
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 3
+	Date: 2015-07-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Cass Nebraska" ; Times: 1
+	Query: "UA Cyprinella Caerulea" ; Times: 1
+	Query: "pristis pectinata" ; Times: 3
+	Query: "stateprovince:"new york" specificepithet:margarita year >= 1850 year <= 2014" ; Times: 1
+	Query: "bankhead national forest" ; Times: 1
+	Query: "Limestone Spring" ; Times: 1
+	Query: "cheilodipterus lineatus" ; Times: 1
+	Query: "seriola dumerili gulf" ; Times: 1
+	Query: "brotula gulf" ; Times: 1
+	Query: "county:"Spartanburg" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "ephippidae saudi arabia" ; Times: 1
+	Query: "decapterus gulf" ; Times: 1
+	Query: "Cyprinella Caerulea alabama" ; Times: 3
+	Query: "etrumeus gulf" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:buchanani genus:Notropis" ; Times: 2
+	Query: "Cyprinella gibbsi UAIC" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "perot" ; Times: 1
+	Query: "Etheostoma barbouri" ; Times: 2
+	Query: "month:12 year:1963 day:8" ; Times: 1
+	Query: "ruvettus gulf" ; Times: 1
+	Query: "Cyprinella gibbsi tallapoosa river" ; Times: 3
+	Query: "heterodon stateprovince:"illinois" mappable:1" ; Times: 1
+	Query: "stateprovince:"new york" genus:margariscus year >= 1850 year <= 2014" ; Times: 1
+	Query: "Cyprinella gibbsi Alabama UA" ; Times: 9
+	Query: "naucrates gulf" ; Times: 1
+	Query: "Cyprinella gibbsi" ; Times: 2
+	Query: "canis stateprovince:"Alabama" country:"United States"" ; Times: 1
+	Query: "county:"Abbeville" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "carapidae gulf" ; Times: 2
+	Query: "Cyprinella caerulea Alabama" ; Times: 2
+	Query: "stigmatura" ; Times: 1
+	Query: "Cyprinella caerulea" ; Times: 19
+	Query: "conecuh national forest" ; Times: 1
+	Query: "sipsey wilderness" ; Times: 2
+	Query: "county:"Chester" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "Percina oxyrhynchus" ; Times: 1
+	Query: "specificepithet:fulgida genus:Meda" ; Times: 3
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "Conecuh National Forest country:"United States"" ; Times: 1
+	Query: "Cyprinella gibbsi Alabama" ; Times: 8
+	Query: "county:"Richland" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:cragini genus:Etheostoma" ; Times: 1
+	Query: "pristis pristis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1084 download events in this period)
+Total number of records downloaded: 2823 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1622
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 3
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-22 ; Times: 1
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "iguana iguana" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" year >= 2000 year <= 2000" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "eumicrotremus orbis" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 280
+Total number of records retrieved from searches: 5173
+Number of download events that retrieved data from the resource: 57
+Total number of records downloaded: 9251
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 307
+Total number of records retrieved from searches: 5556
+Number of download events that retrieved data from the resource: 75
+Total number of records downloaded: 10082
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
