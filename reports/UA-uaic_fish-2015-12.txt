@@ -1,0 +1,91 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 144
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Unknown ; Times: 3
+	Country: Russia ; Times: 15
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-03 ; Times: 2
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 6
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 4
+	Date: 2015-12-22 ; Times: 4
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-11 ; Times: 3
+	Date: 2015-12-17 ; Times: 6
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-18 ; Times: 10
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 2
+	Query: "pristis pectinata" ; Times: 2
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "Etheostoma denoncourti" ; Times: 1
+	Query: "genus:Menidia tissue:1" ; Times: 1
+	Query: "Ammocrypta clara" ; Times: 4
+	Query: "Typhlichthys kentucky" ; Times: 5
+	Query: "Etheostoma variatum (Virginia) AND (Not West)" ; Times: 1
+	Query: "Erimonax monachus (Virginia)" ; Times: 1
+	Query: "Cyprinella whipplei (Virginia)" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "Percina rex (Virginia)" ; Times: 2
+	Query: "Etheostoma percnurum (Virginia)" ; Times: 1
+	Query: "torpedo" ; Times: 1
+	Query: "Percina rex" ; Times: 1
+	Query: "Etheostoma denoncourti (Virginia)" ; Times: 1
+	Query: "Erimonax monachus" ; Times: 1
+	Query: "witch" ; Times: 16
+	Query: "Etheostoma chlorobranchium (Virginia)" ; Times: 1
+	Query: "percina rex" ; Times: 1
+	Query: "Erimystax cahni" ; Times: 1
+	Query: "typhlichthys kentucky" ; Times: 1
+	Query: "Etheostoma variatum (&#34;Virginia&#34;)" ; Times: 1
+	Query: "conecuh national forest" ; Times: 1
+	Query: "genus:Menidia year &gt;= 2000 year &lt;= 2015 tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 889 download events in this period)
+Total number of records downloaded: 8390
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "family:Anguillidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+
+
+End of report.
