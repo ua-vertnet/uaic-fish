@@ -1,0 +1,125 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 419
+Number of records retrieved in searches: 9122
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 410
+	Country: Guatemala ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 338
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-21 ; Times: 8
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 4
+	Date: 2016-06-03 ; Times: 2
+	Date: 2016-06-02 ; Times: 6
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-18 ; Times: 6
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-17 ; Times: 4
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 3
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 6
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 118
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 9
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "bison bison   " ; Times: 6
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 5
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 2
+	Query: "11139" ; Times: 3
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "pinula" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "typhlichthys shelta" ; Times: 8
+	Query: "florida panther" ; Times: 1
+	Query: "specificepithet:cataractae genus:Micropterus" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 17
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "flavescens iowa" ; Times: 1
+	Query: "specificepithet:balao genus:Hemiramphus" ; Times: 6
+	Query: "Andalusia" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 45
+	Query: "specificepithet:cruentatus genus:Heteropriacanthus" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 54
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 5
+	Query: "Gila pandora stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 3
+	Query: "witch" ; Times: 6
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 6
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "specificepithet:delicatissima genus:Anchoa" ; Times: 2
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 4
+	Query: "specificepithet:cephalus genus:Mugil continent:North America year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "specificepithet:compressa genus:Anchoa" ; Times: 3
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 18
+	Query: "specificepithet:monoceros genus:Aluterus" ; Times: 1
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1052 download events in this period)
+Total number of records downloaded: 172
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;coyote&#34; OR &#34;Canis latrans&#34;) mappable:1" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
