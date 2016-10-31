@@ -1,0 +1,88 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 291
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 25
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-23 ; Times: 3
+	Date: 2016-09-16 ; Times: 1
+	Date: 2016-09-18 ; Times: 3
+	Date: 2016-09-06 ; Times: 4
+	Date: 2016-09-19 ; Times: 1
+	Date: 2016-09-24 ; Times: 6
+	Date: 2016-09-03 ; Times: 8
+	Date: 2016-09-12 ; Times: 5
+	Date: 2016-09-11 ; Times: 3
+	Date: 2016-09-10 ; Times: 4
+	Date: 2016-09-08 ; Times: 3
+	Date: 2016-09-09 ; Times: 1
+	Date: 2016-09-15 ; Times: 1
+	Date: 2016-09-14 ; Times: 3
+	Date: 2016-09-04 ; Times: 3
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-05 ; Times: 15
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 1
+	Date: 2016-09-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 3
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:formosa genus:Heterandria stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 1
+	Query: "genus:moxostoma stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: " Oncorhynchus clarki henshawi" ; Times: 6
+	Query: "lethenteron meridionale institutioncode:UA" ; Times: 1
+	Query: "specificepithet:bipinnulata genus:Elagatis" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 3
+	Query: "Oncorhynchus clarki henshawi" ; Times: 31
+	Query: "specificepithet:dubius genus:Scarus" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "Carassius auratus" ; Times: 2
+	Query: "Remora remora" ; Times: 5
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "specificepithet:remora genus:Remora" ; Times: 1
+	Query: "lampetra aepyptera institutioncode:UA" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "Cardinalis cardinalis 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 811 download events in this period)
+Total number of records downloaded: 32
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:formosa genus:Heterandria stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "tadpole" ; Times: 1
+
+
+End of report.
