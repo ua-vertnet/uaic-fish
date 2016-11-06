@@ -1,0 +1,56 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 201
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 3
+	Country: Netherlands ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-05 ; Times: 2
+	Date: 2016-10-31 ; Times: 3
+	Date: 2016-10-30 ; Times: 2
+	Date: 2016-10-06 ; Times: 2
+	Date: 2016-10-09 ; Times: 1
+	Date: 2016-10-20 ; Times: 1
+	Date: 2016-10-21 ; Times: 2
+	Date: 2016-10-19 ; Times: 2
+	Date: 2016-10-08 ; Times: 1
+	Date: 2016-10-27 ; Times: 1
+	Date: 2016-10-15 ; Times: 1
+	Date: 2016-10-07 ; Times: 4
+	Date: 2016-10-04 ; Times: 3
+	Date: 2016-10-16 ; Times: 2
+	Date: 2016-10-11 ; Times: 2
+	Date: 2016-10-17 ; Times: 2
+	Date: 2016-10-13 ; Times: 1
+	Date: 2016-10-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "specificepithet:parvus genus:Sphoeroides mappable:1" ; Times: 1
+	Query: "specificepithet:lepturus genus:Trichiurus mappable:1" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus mappable:1" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: " Oncorhynchus clarki henshawi" ; Times: 27
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
