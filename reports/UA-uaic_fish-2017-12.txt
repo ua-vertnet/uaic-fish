@@ -1,0 +1,199 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 163
+Number of records retrieved in searches: 1259
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Canada ; Times: 1
+	Country: France ; Times: 54
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 50
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-17 ; Times: 3
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-12 ; Times: 3
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-11 ; Times: 85
+	Date: 2017-12-19 ; Times: 1
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-27 ; Times: 2
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-25 ; Times: 2
+	Date: 2017-12-24 ; Times: 13
+	Date: 2017-12-23 ; Times: 14
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-20 ; Times: 16
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-04 ; Times: 3
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sardinella aurita mappable:1" ; Times: 1
+	Query: "Cichlasoma salvini" ; Times: 1
+	Query: "Oligoplites saurus" ; Times: 1
+	Query: "Phallichthys fairweatheri" ; Times: 1
+	Query: "Scomber colias mappable:1" ; Times: 1
+	Query: "Abudefduf sexfasciatus" ; Times: 2
+	Query: "distance(location,geopoint(41.433974414,-71.480081389))&lt;5770" ; Times: 1
+	Query: "Chromis enchrysurus mappable:1" ; Times: 1
+	Query: "Seriola dumerili mappable:1" ; Times: 1
+	Query: "Cyttopsis rosea mappable:1" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "locality:Hudson River stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Conodon nobilis" ; Times: 1
+	Query: "Eucinostomus gula" ; Times: 1
+	Query: "Amphilophus robertsoni" ; Times: 1
+	Query: "Citharichthys spilopterus" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "Chaetodipterus faber" ; Times: 1
+	Query: "Profundulus punctatus" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "h 8289" ; Times: 1
+	Query: "Megalops atlanticus" ; Times: 1
+	Query: "Upeneus sp." ; Times: 1
+	Query: "Chromis insolata mappable:1" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "Gambusia sexradiata" ; Times: 1
+	Query: "Prionotus alatus mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "Carlhubbsia kidderi" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Helicolenus dactylopterus mappable:1" ; Times: 1
+	Query: "county:&#34;williams&#34; stateprovince:&#34;North Dakota&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Cottus ricei mappable:1" ; Times: 1
+	Query: "Evorthodus lyricus" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Maurolicus muelleri mappable:1" ; Times: 1
+	Query: "Hyphessobrycon compressus" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 1
+	Query: "Torpedo nobiliana mappable:1" ; Times: 1
+	Query: "genus:Neogobius country:&#34;united states&#34;" ; Times: 1
+	Query: "Macroramphosus scolopax mappable:1" ; Times: 1
+	Query: "Thorichthys meeki" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Mullus auratus" ; Times: 1
+	Query: "Apristurus indicus" ; Times: 2
+	Query: "Ophisternon aenigmaticum" ; Times: 1
+	Query: "racoon" ; Times: 2
+	Query: "Dormitator maculatus" ; Times: 1
+	Query: "Gerres cinereus" ; Times: 1
+	Query: "Eucinostomus argenteus" ; Times: 1
+	Query: "Wallahatchee Creek" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "&#34;farmington &#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Diapterus auratus" ; Times: 1
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "Chromis enchrysurus" ; Times: 1
+	Query: "&#34;Umbra krameri&#34;" ; Times: 2
+	Query: "Oligodon hastissue:1" ; Times: 5
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "Strongylura marina" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "locality:Hudson River stateprovince:&#34;New York&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Squalus cubensis" ; Times: 1
+	Query: "Abudefduf abdominalis mappable:1" ; Times: 2
+	Query: "Strongylura notata" ; Times: 1
+	Query: "Opsanus beta" ; Times: 1
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 1
+	Query: "Trachinotus carolinus" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Fundulus euryzonus" ; Times: 2
+	Query: "Mullus auratus mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Diapterus rhombeus" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 1
+	Query: "Heterandria bimaculata" ; Times: 1
+	Query: "Mugil curema" ; Times: 1
+	Query: "Anacanthobatis folirostris" ; Times: 3
+	Query: "Centropristis striata mappable:1" ; Times: 1
+	Query: "Rhinobatos lentiginosus" ; Times: 3
+	Query: "Gobionellus oceanicus" ; Times: 1
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "Elops saurus" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 3
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 1
+	Query: "Brevoortia gunteri" ; Times: 1
+	Query: "Etropus crossotus" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "Abudefduf abdominalis" ; Times: 2
+	Query: "Alosa pseudoharengus mappable:1" ; Times: 2
+	Query: "Poecilia mexicana" ; Times: 1
+	Query: "wisconsin DNR" ; Times: 3
+	Query: "Micropogonias undulatus" ; Times: 1
+	Query: "Harengula jaguana" ; Times: 1
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 1
+	Query: "Rhamdia laticauda" ; Times: 1
+	Query: "Chromis insolata" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Merluccius albidus mappable:1" ; Times: 1
+	Query: "Petenia splendida" ; Times: 1
+	Query: "Upeneus sp. mappable:1" ; Times: 1
+	Query: "Upeneus parvus" ; Times: 1
+	Query: "Anthias anthias mappable:1" ; Times: 2
+	Query: "&#34;Thorichthys meeki&#34;" ; Times: 1
+	Query: "Myrophis punctatus" ; Times: 1
+	Query: "Argyropelecus aculeatus mappable:1" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 8
+	Query: "distance(location,geopoint(33.703550115,-85.7570766435))&lt;5842" ; Times: 2
+	Query: "Agonostomus monticola" ; Times: 1
+	Query: "specificepithet:hyostoma genus:Macrhybopsis month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Pagrus pagrus mappable:1" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 674 download events in this period)
+Total number of records downloaded: 1086
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-14 ; Times: 3
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinobatos lentiginosus" ; Times: 1
+	Query: "&#34;Umbra krameri&#34;" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 3
+	Query: "Thymallus arcticus" ; Times: 1
+	Query: "notropis bifrenatus" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "Wallahatchee Creek" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "(Microdesmidae OR Gobiidae OR Ptereleotridae OR Kraemeriidae OR Schindleriidae OR Xenisthmidae OR Odontobutidae OR Rhyacichthyidae OR Milyeringidae OR Eleotridae OR Thalasseleotrididae OR Trichonotidae OR Apogonidae OR Kurtidae) hastissue:1" ; Times: 1
+
+
+End of report.
