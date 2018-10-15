@@ -1,0 +1,223 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 370
+Number of records retrieved in searches: 5043
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 103
+	Country: Canada ; Times: 140
+	Country: France ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 124
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 4
+	Date: 2018-01-31 ; Times: 3
+	Date: 2018-01-09 ; Times: 8
+	Date: 2018-01-02 ; Times: 12
+	Date: 2018-01-03 ; Times: 26
+	Date: 2018-01-26 ; Times: 17
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-14 ; Times: 3
+	Date: 2018-01-22 ; Times: 15
+	Date: 2018-01-23 ; Times: 93
+	Date: 2018-01-16 ; Times: 2
+	Date: 2018-01-24 ; Times: 20
+	Date: 2018-01-17 ; Times: 111
+	Date: 2018-01-30 ; Times: 11
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-25 ; Times: 14
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-20 ; Times: 5
+	Date: 2018-01-11 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "Cichlasoma salvini" ; Times: 2
+	Query: "Raja texana" ; Times: 1
+	Query: "Oligoplites saurus" ; Times: 2
+	Query: "Phallichthys fairweatheri" ; Times: 2
+	Query: "Abudefduf sexfasciatus" ; Times: 2
+	Query: "Dascyllus albisella" ; Times: 1
+	Query: "distance(location,geopoint(41.433974414,-71.480081389))&lt;5770" ; Times: 2
+	Query: "dasyatis americana" ; Times: 1
+	Query: "uw-madison" ; Times: 1
+	Query: "scientificname:(Hybognathus placitus) country:United States mappable:1" ; Times: 2
+	Query: "fundulus seminolis" ; Times: 2
+	Query: "scientificname:(Esox lucius) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis topeka) country:United States mappable:1" ; Times: 1
+	Query: "genus:lota hastissue:1" ; Times: 5
+	Query: "scientificname:(Atractosteus spatula OR Lepisosteus spatula) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Cottus aleuticus) country:United States mappable:1" ; Times: 1
+	Query: "Conodon nobilis" ; Times: 2
+	Query: "&#34;Salvelinus namaycush&#34; hastissue:1" ; Times: 3
+	Query: "Oncorhynchus clarki lewisi" ; Times: 1
+	Query: "Eucinostomus gula" ; Times: 2
+	Query: "Amphilophus robertsoni" ; Times: 2
+	Query: "genus:Fistularia hastissue:1" ; Times: 1
+	Query: "Citharichthys spilopterus" ; Times: 2
+	Query: "Pomacentrus planifrons mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(41.6073861305001,-70.5313918259999))&lt;11201" ; Times: 1
+	Query: "Chaetodipterus faber" ; Times: 2
+	Query: "Birch Island" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "Profundulus punctatus" ; Times: 2
+	Query: "&#34;Salvelinus confluentus&#34; hastissue:1" ; Times: 3
+	Query: "Megalops atlanticus" ; Times: 2
+	Query: "Chromis insolata mappable:1" ; Times: 1
+	Query: "Oncorhynchus clarki lewisi hastissue:1" ; Times: 1
+	Query: "locality:ojo de agua stateprovince:&#34;nuevo leon&#34;" ; Times: 1
+	Query: "Gambusia sexradiata" ; Times: 2
+	Query: "erimystax harryi" ; Times: 7
+	Query: "&#34;couesius plumbeus&#34; hastissue:1" ; Times: 1
+	Query: "Chromis enchrysurus" ; Times: 1
+	Query: "scientificname:(Cottus hypselurus) country:United States mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 3
+	Query: "Carlhubbsia kidderi" ; Times: 2
+	Query: "Couesius plumbeus hastissue:1" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "&#34;lota lota&#34; hastissue:1" ; Times: 3
+	Query: "Microdesmus longipinnis" ; Times: 2
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Cottus ricei mappable:1" ; Times: 1
+	Query: "Evorthodus lyricus" ; Times: 2
+	Query: "Microphis lineatus" ; Times: 2
+	Query: "Hyphessobrycon compressus" ; Times: 2
+	Query: "Dascyllus albisella mappable:1" ; Times: 1
+	Query: "Pomacentrus variabilis" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "Fenestraja plutonia" ; Times: 1
+	Query: "Snyderichthys copei hastissue:1" ; Times: 1
+	Query: "Thorichthys meeki" ; Times: 2
+	Query: "naches river" ; Times: 1
+	Query: "&#34;Salvelinus malma&#34; hastissue:1" ; Times: 6
+	Query: "distance(location,geopoint(37.222568117143,-75.999510251))&lt;1566" ; Times: 2
+	Query: "scientificname:(Catostomus tahoensis) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(41.4396964680001,-71.663528582))&lt;23842" ; Times: 2
+	Query: "Ophisternon aenigmaticum" ; Times: 2
+	Query: "Dormitator maculatus" ; Times: 2
+	Query: "Gerres cinereus" ; Times: 2
+	Query: "scientificname:(Catostomus latipinnis) country:United States mappable:1" ; Times: 1
+	Query: "Eucinostomus argenteus" ; Times: 2
+	Query: "Etmopterus hillianus" ; Times: 1
+	Query: "Microspathodon chrysurus" ; Times: 2
+	Query: "scientificname:(Umbra limi) country:United States mappable:1" ; Times: 1
+	Query: "&#34;Oncorhynchus clarki lewisi&#34; hastissue:1" ; Times: 3
+	Query: "Belonesox belizanus" ; Times: 2
+	Query: "genus:Typhlichthys stateprovince:&#34;Kentucky&#34;" ; Times: 7
+	Query: "&#34;Salvelinus alpinus&#34; hastissue:1" ; Times: 3
+	Query: "Diapterus auratus" ; Times: 2
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "Gobiomorus dormitor" ; Times: 2
+	Query: "&#34;Couesius plumbeus&#34; hastissue:1" ; Times: 5
+	Query: "Ictalurus furcatus" ; Times: 2
+	Query: "Strongylura marina" ; Times: 2
+	Query: "scientificname:(Ptychocheilus oregonensis) country:United States mappable:1" ; Times: 1
+	Query: "Pomacentrus planifrons" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 2
+	Query: "Abudefduf abdominalis mappable:1" ; Times: 1
+	Query: "Strongylura notata" ; Times: 2
+	Query: "Pomacentrus leucostictus mappable:1" ; Times: 2
+	Query: "Ariopsis felis" ; Times: 2
+	Query: "Chromis scotti" ; Times: 1
+	Query: "Trachinotus carolinus" ; Times: 2
+	Query: "Chromis scotti mappable:1" ; Times: 1
+	Query: "&#34;Snyderichthys copei&#34; hastissue:1" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "specificepithet:crypticus genus:Noturus" ; Times: 1
+	Query: "Stegastes leucostictus" ; Times: 1
+	Query: "Diapterus rhombeus" ; Times: 2
+	Query: "Gobiesox strumosus" ; Times: 2
+	Query: "Heterandria bimaculata" ; Times: 2
+	Query: "Mugil curema" ; Times: 2
+	Query: "Opsanus beta" ; Times: 2
+	Query: "Rhinobatos lentiginosus" ; Times: 7
+	Query: "Letchworth stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Gobionellus oceanicus" ; Times: 2
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "scientificname:(Gila robusta) country:United States mappable:1" ; Times: 1
+	Query: "Elops saurus" ; Times: 2
+	Query: "scientificname:(Notropis girardi) country:United States mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 2
+	Query: "&#34;clinostomus funduloides&#34; hastissue:1" ; Times: 1
+	Query: "&#34;Acipenser transmontanus&#34; hastissue:1" ; Times: 2
+	Query: "Brevoortia gunteri" ; Times: 2
+	Query: "Etropus crossotus" ; Times: 2
+	Query: "Poecilia mexicana" ; Times: 2
+	Query: "Abudefduf abdominalis" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Anchoa hepsetus" ; Times: 2
+	Query: "scientificname:(Moxostoma macrolepidotum OR Moxostoma macrolepidotum macrolepidotum) country:United States mappable:1" ; Times: 2
+	Query: "Micropogonias undulatus" ; Times: 2
+	Query: "genus:Sander stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "Harengula jaguana" ; Times: 2
+	Query: "&#34;Lota lota&#34; hastissue:1" ; Times: 3
+	Query: "Microphis brachyurus" ; Times: 2
+	Query: "stateprovince:&#34;New york&#34; recordedby:Axtell" ; Times: 2
+	Query: "Rhamdia laticauda" ; Times: 2
+	Query: "Chromis insolata" ; Times: 1
+	Query: "&#34;Catostomus commersonii&#34; continent:North America hastissue:1" ; Times: 1
+	Query: "Stegastes leucostictus mappable:1" ; Times: 1
+	Query: "Petenia splendida" ; Times: 2
+	Query: "scientificname:(Catostomus occidentalis) country:United States mappable:1" ; Times: 2
+	Query: "Pomacentrus fuscus" ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "Myrophis punctatus" ; Times: 2
+	Query: "Pomacentrus variabilis mappable:1" ; Times: 1
+	Query: "Pomacentrus fuscus mappable:1" ; Times: 1
+	Query: "Carassius gibelio hastissue:1" ; Times: 1
+	Query: "Agonostomus monticola" ; Times: 2
+	Query: "&#34;morone chrysops&#34; hastissue:1" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "distance(location,geopoint(26.4004249545,-97.741822877))&lt;19845" ; Times: 4
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "Pomacentrus leucostictus" ; Times: 2
+	Query: "&#34;Morone chrysops&#34; hastissue:1" ; Times: 12
+	Query: "Achirus lineatus" ; Times: 2
+	Query: "petenia splendida" ; Times: 1
+	Query: "distance(location,geopoint(33.703550115,-85.7570766435))&lt;5842" ; Times: 8
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:confluentus hastissue:1" ; Times: 82
+	Query: "Chromis enchrysurus mappable:1" ; Times: 1
+	Query: "Dasyatis say" ; Times: 1
+	Query: "Aplodinotus grunniens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1398 download events in this period)
+Total number of records downloaded: 378
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-22 ; Times: 7
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Raja texana" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "Rhinobatos lentiginosus" ; Times: 1
+	Query: "stateprovince:&#34;New york&#34; recordedby:Axtell" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "erimystax harryi" ; Times: 1
+	Query: "anchoa mitchilli" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 4
+
+
+End of report.
