@@ -1,0 +1,137 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 172
+Number of records retrieved in searches: 2773
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 44
+	Country: United States ; Times: 111
+	Country: Mexico ; Times: 11
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 32
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-26 ; Times: 10
+	Date: 2018-02-19 ; Times: 6
+	Date: 2018-02-08 ; Times: 16
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 29
+	Date: 2018-02-06 ; Times: 51
+	Date: 2018-02-05 ; Times: 11
+	Date: 2018-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 4
+	Query: "&#34;esox niger&#34; hastissue:1" ; Times: 6
+	Query: "&#34;Micropterus dolomieu&#34; hastissue:1" ; Times: 1
+	Query: "Awaous tajasica mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 2
+	Query: "Hydrolagus Alberti" ; Times: 1
+	Query: "distance(location,geopoint(36.994023142,-90.182407438))&lt;9468" ; Times: 4
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 2
+	Query: "specificepithet:bancroftii genus:Narcine" ; Times: 1
+	Query: "genus:Myctophum hastissue:1" ; Times: 2
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "barbus plebejus" ; Times: 1
+	Query: "recordedby:j. e. wallace" ; Times: 1
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 4
+	Query: "specificepithet:glauca genus:Prionace hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 4
+	Query: "distance(location,geopoint(47.5120911515,-95.383909072))&lt;30045" ; Times: 4
+	Query: "distance(location,geopoint(41.525447615,-82.9237379591665))&lt;5634" ; Times: 4
+	Query: "&#34;esox lucius&#34; hastissue:1" ; Times: 3
+	Query: "specificepithet:alberti genus:Hydrolagus" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "&#34;Esox lucius&#34; hastissue:1" ; Times: 3
+	Query: "distance(location,geopoint(39.881129919,-90.5451142735))&lt;6477" ; Times: 4
+	Query: "distance(location,geopoint(38.96124829875,-92.5995447390948))&lt;5916" ; Times: 4
+	Query: "distance(location,geopoint(45.259052436225,-93.979293029214))&lt;21143" ; Times: 4
+	Query: "wolverine" ; Times: 1
+	Query: "distance(location,geopoint(42.7557685876957,-90.935819783))&lt;18209" ; Times: 4
+	Query: "Hydrolagus affinis" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 7
+	Query: "&#34;Esox niger&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 7
+	Query: "distance(location,geopoint(44.581886792,-94.0976704385))&lt;18074" ; Times: 4
+	Query: "distance(location,geopoint(45.1119865645001,-94.506924154))&lt;30886" ; Times: 4
+	Query: "distance(location,geopoint(43.055277491,-91.1196036430418))&lt;22343" ; Times: 4
+	Query: "&#34;Hypophthalmichthys nobilis&#34; hastissue:1" ; Times: 1
+	Query: "&#34;Micropterus dolomieu&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 20
+	Query: "Narcine bancroftii" ; Times: 1
+	Query: "distance(location,geopoint(44.8222624240001,-93.894220366))&lt;12473" ; Times: 4
+	Query: "distance(location,geopoint(44.2351364775,-91.8368762249999))&lt;29242" ; Times: 4
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "distance(location,geopoint(38.8297537470001,-90.1795904995))&lt;2642" ; Times: 4
+	Query: "distance(location,geopoint(43.447923027286,-91.1660457369999))&lt;23821" ; Times: 4
+	Query: "Palsson" ; Times: 1
+	Query: "distance(location,geopoint(45.139607633725,-94.0595528125))&lt;16675" ; Times: 4
+	Query: "rhinobatos lentiginosus" ; Times: 2
+	Query: "distance(location,geopoint(26.4004249545,-97.741822877))&lt;19845" ; Times: 1
+	Query: "distance(location,geopoint(43.9584544995,-95.1857501855))&lt;25378" ; Times: 4
+	Query: "B-1357" ; Times: 1
+	Query: "&#34;Coregonus clupeaformis&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:bancroftii genus:Narcine hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(44.575467516,-93.874740139))&lt;6272" ; Times: 4
+	Query: "Ctenopharyngodon idella hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 4
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "distance(location,geopoint(38.91491613655,-92.5239536137407))&lt;5501" ; Times: 4
+	Query: "specificepithet:alberti genus:Hydrolagus hastissue:1" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1892 download events in this period)
+Total number of records downloaded: 8032
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+
+
+End of report.
