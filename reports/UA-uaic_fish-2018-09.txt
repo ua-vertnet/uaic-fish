@@ -1,0 +1,127 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 1109
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 81
+	Country: Germany ; Times: 7
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-24 ; Times: 13
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-13 ; Times: 45
+	Date: 2018-09-01 ; Times: 2
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-07 ; Times: 3
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-16 ; Times: 6
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-20 ; Times: 5
+	Date: 2018-09-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Etheostoma osburni" ; Times: 2
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 2
+	Query: "genus:astyanax stateprovince:&#34;san luis potosi&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "noturus placidus" ; Times: 4
+	Query: "Constanta" ; Times: 1
+	Query: "stateprovince:&#34;New Brunswick&#34; hastissue:1" ; Times: 1
+	Query: "Wolverine" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Oligodon hastissue:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Acipenser transmontanus) country:United States mappable:1" ; Times: 1
+	Query: "South Toe Moxostoma" ; Times: 1
+	Query: "sphoeroides nephelus hastissue:1" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 3
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "genus:Snyderichthys specificepithet:copei" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:miurus genus:Noturus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 4
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Moxostoma lachneri OR Scartomyzon lachneri) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "scientificname:(Catostomus santaanae) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Pogonichthys macrolepidotus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "genus:trichiurus hastissue:1" ; Times: 3
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "harms" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 2
+	Query: "astyanax san luis potosi" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "genus:gasterosteus county:&#34;Humboldt&#34;" ; Times: 13
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "&#34;Lucania goodei&#34;" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 1
+	Query: "scientificname:(Novumbra hubbsi) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:malma genus:salvelinus country:&#34;Canada&#34; hastissue:1" ; Times: 2
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 2
+	Query: "noturus munitus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 846 download events in this period)
+Total number of records downloaded: 101
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 4
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "Etheostoma osburni" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "Wolverine" ; Times: 3
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "river otter" ; Times: 1
+
+
+End of report.
