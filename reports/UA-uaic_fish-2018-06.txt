@@ -1,0 +1,133 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 1219
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 85
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 4
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-19 ; Times: 5
+	Date: 2018-06-07 ; Times: 9
+	Date: 2018-06-06 ; Times: 12
+	Date: 2018-06-05 ; Times: 8
+	Date: 2018-06-04 ; Times: 6
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-15 ; Times: 5
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-17 ; Times: 6
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-14 ; Times: 4
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-26 ; Times: 7
+	Date: 2018-06-21 ; Times: 6
+	Date: 2018-06-20 ; Times: 4
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "specificepithet:nourissati family:Cichlidae" ; Times: 2
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+	Query: "locality:Hill Creek county:&#34;Bibb&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.0273643449831,-85.802234491073))&lt;11980" ; Times: 1
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "lethenteron alaskense" ; Times: 2
+	Query: "Flavescens iowa" ; Times: 2
+	Query: "distance(location,geopoint(44.6577752129955,-93.9097548854255))&lt;12648" ; Times: 1
+	Query: "distance(location,geopoint(45.1119776310102,-94.507046023876))&lt;45034" ; Times: 1
+	Query: "distance(location,geopoint(44.8282743318785,-94.2790539204441))&lt;38517" ; Times: 1
+	Query: "Bay Minette" ; Times: 1
+	Query: "distance(location,geopoint(36.9940289363794,-90.1823658933356))&lt;23608" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "distance(location,geopoint(37.9940788312488,-89.8514679239135))&lt;13019" ; Times: 1
+	Query: "distance(location,geopoint(44.5096002022186,-93.913082865578))&lt;12869" ; Times: 1
+	Query: "Etheostoma douglasi" ; Times: 8
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "distance(location,geopoint(38.3077605964849,-90.3488216489505))&lt;13734" ; Times: 1
+	Query: "distance(location,geopoint(45.2768308818963,-93.7703836750571))&lt;20247" ; Times: 1
+	Query: "specificepithet:coeruleus family:Cichlidae" ; Times: 2
+	Query: "distance(location,geopoint(44.0987702179425,-88.7983952704503))&lt;14983" ; Times: 1
+	Query: "specificepithet:grammodes family:Cichlidae" ; Times: 1
+	Query: "specificepithet:grammodes genus:Nandopsis family:Cichlidae" ; Times: 1
+	Query: "Menidia extensa" ; Times: 1
+	Query: "distance(location,geopoint(39.8811126354848,-90.5450667498278))&lt;20513" ; Times: 1
+	Query: "specificepithet:okaloosae year &gt;= 1080" ; Times: 1
+	Query: "distance(location,geopoint(38.948701928946,-85.8056194503849))&lt;13560" ; Times: 1
+	Query: "locality:Shultz county:&#34;Bibb&#34;" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "cyprinodontidae hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(45.2753844185115,-94.1628331295119))&lt;22822" ; Times: 1
+	Query: "Lethenteron alaskense" ; Times: 1
+	Query: "specificepithet:grammodes" ; Times: 2
+	Query: "distance(location,geopoint(37.8548349724,-89.8514679239135))&lt;13787" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "percina nasuta" ; Times: 1
+	Query: "distance(location,geopoint(37.703859764372,-89.602791061395))&lt;13804" ; Times: 1
+	Query: "heterodon MA" ; Times: 3
+	Query: "distance(location,geopoint(45.0186511975549,-94.162894036879))&lt;22087" ; Times: 1
+	Query: "puppy" ; Times: 1
+	Query: "cyprinodontiformes cyprinodon order:Cyprinodontiformes hastissue:1" ; Times: 3
+	Query: "distance(location,geopoint(43.990674911811,-88.7744394389554))&lt;16702" ; Times: 1
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "locality:Shultz stateprovince:&#34;ALabama&#34;" ; Times: 1
+	Query: "distance(location,geopoint(45.0501439614529,-93.7973836220047))&lt;15301" ; Times: 1
+	Query: "distance(location,geopoint(38.005810180428,-90.100144786432))&lt;13769" ; Times: 1
+	Query: "locality:Shultz Creek" ; Times: 3
+	Query: "distance(location,geopoint(44.8059502237725,-93.6644673554555))&lt;12831" ; Times: 1
+	Query: "corniger" ; Times: 1
+	Query: "Catenatus oklahoma" ; Times: 3
+	Query: "county:&#34;Davie&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+	Query: "locality:Shultz county:&#34;Bibb&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1169 download events in this period)
+Total number of records downloaded: 460
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "eno river" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "locality:Schultz county:&#34;Bibb&#34;" ; Times: 1
+	Query: "lethenteron alaskense" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "coyote" ; Times: 1
+
+
+End of report.
