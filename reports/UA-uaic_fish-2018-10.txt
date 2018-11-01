@@ -1,0 +1,158 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 415
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 81
+	Country: Ireland ; Times: 1
+	Country: Venezuela ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 6
+	Date: 2018-10-05 ; Times: 4
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-23 ; Times: 6
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-18 ; Times: 8
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-10 ; Times: 13
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-15 ; Times: 47
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acipenser brevirostrum" ; Times: 1
+	Query: "noturus placidus" ; Times: 12
+	Query: "Foetorepus agassizi" ; Times: 1
+	Query: "Acipenser transmontanus mappable:1" ; Times: 1
+	Query: "Oostethus lineatus mappable:1" ; Times: 1
+	Query: "Syngnathus louisianae" ; Times: 1
+	Query: "vntype:specimen genus:Opisthonema hastissue:1" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "Lactophrys quadricornis mappable:1" ; Times: 1
+	Query: "Cosmocampus hildebrandi" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "Lactophrys tricornis" ; Times: 2
+	Query: "Acanthostracion quadricornis mappable:1" ; Times: 1
+	Query: "Nerophis maculatus" ; Times: 1
+	Query: "Torpedo nobiliana" ; Times: 2
+	Query: "Lactophrys triqueter" ; Times: 1
+	Query: "Etheostoma mariae" ; Times: 1
+	Query: "Microphis lineatus mappable:1" ; Times: 1
+	Query: "Anarchopterus criniger mappable:1" ; Times: 1
+	Query: "Syngnathus leptorhynchus mappable:1" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "Lactophrys trigonus" ; Times: 1
+	Query: "Lampetra tridentata mappable:1" ; Times: 1
+	Query: "Myxocyprinus" ; Times: 1
+	Query: "Canthidermis sufflamen" ; Times: 1
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Syngnathus louisianae mappable:1" ; Times: 1
+	Query: "Lactophrys quadricornis" ; Times: 1
+	Query: "Lactophrys triqueter mappable:1" ; Times: 1
+	Query: "Cosmocampus albirostris" ; Times: 1
+	Query: "Squalus cubensis" ; Times: 2
+	Query: "Cosmocampus elucens mappable:1" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 3
+	Query: "Syngnathus nigrolineatus" ; Times: 1
+	Query: "Florida Panther" ; Times: 1
+	Query: "Cosmocampus albirostris mappable:1" ; Times: 1
+	Query: "Syngnathus floridae mappable:1" ; Times: 1
+	Query: "Hippocampus zosterae" ; Times: 1
+	Query: "Cosmocampus hildebrandi mappable:1" ; Times: 1
+	Query: "Galeus arae" ; Times: 1
+	Query: "Hippocampus regulus mappable:1" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "genus:Macrhybopsis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Narcine bancroftii" ; Times: 2
+	Query: "Erythrogaster Ohio" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Callionymus pusillus" ; Times: 1
+	Query: "Oostethus lineatus" ; Times: 1
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "Syngnathus fuscus" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Hippocampus zosterae mappable:1" ; Times: 1
+	Query: "Centrophorus uyato" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "Syngnathus typhle rondeleti" ; Times: 1
+	Query: "Syngnathus fuscus mappable:1" ; Times: 1
+	Query: "Syngnathus springeri" ; Times: 1
+	Query: "Syngnathus typhle typhle" ; Times: 1
+	Query: "sphyrna hastissue:1" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "specificepithet:aestivalis genus:Alosa hastissue:1" ; Times: 1
+	Query: "Syngnathus springeri mappable:1" ; Times: 1
+	Query: "Foetorepus agassizi mappable:1" ; Times: 1
+	Query: "Microphis brachyurus brachyurus" ; Times: 1
+	Query: "characodon" ; Times: 1
+	Query: "Etmopterus hillianus" ; Times: 1
+	Query: "louisianna" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "Etmopterus virens" ; Times: 1
+	Query: "Diplogrammus pauciradiatus" ; Times: 1
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "Hippocampus regulus" ; Times: 1
+	Query: "Paradiplogrammus bairdi" ; Times: 2
+	Query: "Syngnathus pelagicus" ; Times: 3
+	Query: "Anarchopterus criniger" ; Times: 1
+	Query: "Cosmocampus elucens" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1300 download events in this period)
+Total number of records downloaded: 242
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Australia ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-15 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "sphyrna hastissue:1" ; Times: 1
+	Query: "specificepithet:onitis genus:Tautoga" ; Times: 1
+	Query: "specificepithet:chrysops genus:Stenotomus" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "brachyistius frenatus" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "cojedes" ; Times: 1
+	Query: "Etheostoma mariae" ; Times: 1
+	Query: "specificepithet:aestivalis genus:Alosa hastissue:1" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "Florida Panther" ; Times: 1
+	Query: "locality:OH" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.
