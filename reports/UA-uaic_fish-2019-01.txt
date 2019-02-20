@@ -1,0 +1,83 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 345
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 21
+	Country: Mexico ; Times: 2
+	Country: Russia ; Times: 1
+	Country: France ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 4
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-17 ; Times: 12
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-20 ; Times: 4
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-31 ; Times: 5
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-30 ; Times: 15
+	Date: 2019-01-23 ; Times: 18
+	Date: 2019-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 2
+	Query: "oncorhynchus chrysogaster" ; Times: 1
+	Query: "colomesus hastissue:1" ; Times: 7
+	Query: "Marshall TN" ; Times: 1
+	Query: "specificepithet:perpallidus genus:notropis" ; Times: 1
+	Query: "Centroscymnus coelolepis mappable:1" ; Times: 4
+	Query: "pristis" ; Times: 2
+	Query: "trempealeau" ; Times: 1
+	Query: "uw madison" ; Times: 1
+	Query: "genus:etheostoma county:&#34;powell&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Cottus klamathensis" ; Times: 1
+	Query: "genus:etheostoma county:&#34;floyd&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Amblyraja radiata mappable:1" ; Times: 4
+	Query: "Phycis phycis mappable:1" ; Times: 2
+	Query: "genus:etheostoma county:&#34;mccreary&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Centrophorus granulosus mappable:1" ; Times: 4
+	Query: "Opisthonema oglinum" ; Times: 3
+	Query: "ogcocephalus hastissue:1" ; Times: 4
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "Xyrichtys novacula mappable:1" ; Times: 1
+	Query: "Cichlasoma bartoni" ; Times: 1
+	Query: "Sardinella brasiliensis" ; Times: 18
+	Query: "fleming county:&#34;tompkins&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Pristis" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 962 download events in this period)
+Total number of records downloaded: 47
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "oncorhynchus chrysogaster" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Fundulus jenkinsi" ; Times: 2
+
+
+End of report.
