@@ -1,0 +1,152 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 215
+Number of records retrieved in searches: 1041
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Canada ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: France ; Times: 190
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 2
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 140
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-28 ; Times: 46
+	Date: 2019-02-01 ; Times: 5
+	Date: 2019-02-21 ; Times: 2
+	Date: 2019-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 2
+	Query: "Haemulon album mappable:1" ; Times: 3
+	Query: "Sardinella brasiliensis mappable:1" ; Times: 6
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 3
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Lutjanus vivanus mappable:1" ; Times: 1
+	Query: "Calamus penna mappable:1" ; Times: 2
+	Query: "Pseudopoecilia" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon hastissue:1" ; Times: 1
+	Query: "Starksia ocellata mappable:1" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 6
+	Query: "Evorthodus lyricus mappable:1" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "Mycteroperca bonaci mappable:1" ; Times: 1
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "Centroscymnus coelolepis mappable:1" ; Times: 1
+	Query: "erimyzon succetta" ; Times: 1
+	Query: "Hypoplectrus unicolor mappable:1" ; Times: 1
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 8
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "Hyporhamphus unifasciatus mappable:1" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "Dormitator maculatus mappable:1" ; Times: 2
+	Query: "Bathytyphlops marionae" ; Times: 2
+	Query: "Amblyraja radiata mappable:1" ; Times: 1
+	Query: "institutioncode:UA" ; Times: 2
+	Query: "Holacanthus ciliaris mappable:1" ; Times: 1
+	Query: "Scarus taeniopterus mappable:1" ; Times: 1
+	Query: "genus:sphoeroides hastissue:1" ; Times: 1
+	Query: "punctifer" ; Times: 1
+	Query: "Lactophrys triqueter mappable:1" ; Times: 1
+	Query: "Carlhubbsia" ; Times: 1
+	Query: "specificepithet:pachygaster genus:sphoeroides hastissue:1" ; Times: 1
+	Query: "Jenkinsia lamprotaenia mappable:1" ; Times: 11
+	Query: "Cheilopogon exsiliens mappable:1" ; Times: 3
+	Query: "Strongylura timucu mappable:1" ; Times: 10
+	Query: "Haemulon macrostomum mappable:1" ; Times: 2
+	Query: "Albula vulpes mappable:1" ; Times: 4
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 2
+	Query: "Percina gymnocephala stateprovince:&#34;Virginia&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Lutjanus cyanopterus mappable:1" ; Times: 1
+	Query: "ichthology" ; Times: 1
+	Query: "Carassius gibelio" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "Chilomycterus antillarum mappable:1" ; Times: 3
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "Pomacanthus arcuatus mappable:1" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 3
+	Query: "hippocampus erectus mexico" ; Times: 1
+	Query: "Anisotremus virginicus mappable:1" ; Times: 2
+	Query: "Centrophorus granulosus mappable:1" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "cyprinodon elegans" ; Times: 1
+	Query: "Lythrypnus nesiotes mappable:1" ; Times: 3
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "Dactyloscopus crossotus mappable:1" ; Times: 5
+	Query: "Xyrichtys novacula mappable:1" ; Times: 3
+	Query: "Parablennius marmoreus mappable:1" ; Times: 5
+	Query: "Epinephelus morio mappable:1" ; Times: 1
+	Query: "Percina gymnocephala" ; Times: 1
+	Query: "Coregonus artedi hastissue:1" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 3
+	Query: "Erotelis smaragdus mappable:1" ; Times: 5
+	Query: "Equetus lanceolatus mappable:1" ; Times: 1
+	Query: "Anchoa lamprotaenia mappable:1" ; Times: 5
+	Query: "Halichoeres radiatus mappable:1" ; Times: 2
+	Query: "Centropomus undecimalis mappable:1" ; Times: 4
+	Query: "Aluterus scriptus mappable:1" ; Times: 1
+	Query: "Coregonus artedi basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Anchoa cubana mappable:1" ; Times: 9
+	Query: "Anchoa lyolepis mappable:1" ; Times: 6
+	Query: "specificepithet:clinton genus:Etheostoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Lutjanus mahogoni mappable:1" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 8
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 4
+	Query: "Chaetodipterus faber mappable:1" ; Times: 2
+	Query: "Atherinomorus stipes mappable:1" ; Times: 5
+	Query: "Opisthonema oglinum mappable:1" ; Times: 18
+	Query: "Scarus iseri mappable:1" ; Times: 1
+	Query: "etheostoma mccreary county kentucky" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 1
+	Query: "Scorpaena albifimbria mappable:1" ; Times: 1
+	Query: "Risor ruber mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1227 download events in this period)
+Total number of records downloaded: 233
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-24 ; Times: 6
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Percina gymnocephala stateprovince:&#34;Virginia&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon hastissue:1" ; Times: 1
+	Query: "Phallichthys" ; Times: 1
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "Pseudopoecilia" ; Times: 1
+	Query: "poeciliopsis" ; Times: 1
+	Query: "Brachyrhaphis" ; Times: 1
+	Query: "Carlhubbsia" ; Times: 1
+	Query: "Heterandria" ; Times: 1
+	Query: "genus:ictalurus country:&#34;México&#34;" ; Times: 2
+
+
+End of report.
