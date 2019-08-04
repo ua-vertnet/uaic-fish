@@ -1,0 +1,154 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 1174
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 97
+	Country: Unknown ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 31
+	Date: 2019-07-08 ; Times: 49
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-22 ; Times: 3
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-10 ; Times: 6
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-30 ; Times: 2
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Galeus specificepithet:arae" ; Times: 1
+	Query: "scientificname:(Elassoma boehlkei) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "genus:Ictiobus specificepithet:bubalus" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 1
+	Query: "specificepithet:variatum genus:Etheostoma stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "scientificname:(Percina macrocephala) country:United States mappable:1" ; Times: 1
+	Query: "genus:Thoburnia specificepithet:rhothoeca" ; Times: 1
+	Query: "specificepithet:teddyroosevelt genus:Etheostoma" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 1
+	Query: "scientificname:(Gila coerulea) country:United States mappable:1" ; Times: 1
+	Query: "genus:Pimephales specificepithet:tenellus" ; Times: 1
+	Query: "genus:Cottus specificepithet:poecilopus" ; Times: 1
+	Query: "scientificname:(Notropis ariommus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon hastissue:1" ; Times: 2
+	Query: "genus:Etmopterus specificepithet:bullisi" ; Times: 1
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+	Query: "scientificname:(Fundulus jenkinsi) country:United States mappable:1" ; Times: 2
+	Query: "noturus placidus" ; Times: 1
+	Query: "genus:Cottus specificepithet:hypselurus" ; Times: 1
+	Query: "genus:Leporinus specificepithet:friderici" ; Times: 1
+	Query: "Cichla temensis" ; Times: 1
+	Query: "scientificname:(Etheostoma pallididorsum) country:United States mappable:1" ; Times: 1
+	Query: "genus:Archocentrus specificepithet:centrarchus" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Snyderichthys specificepithet:copei" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "genus:Ostichthys" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Risor specificepithet:ruber" ; Times: 1
+	Query: "genus:Cottus specificepithet:confusus" ; Times: 1
+	Query: "scientificname:(Moxostoma lachneri OR Scartomyzon lachneri) country:United States mappable:1" ; Times: 1
+	Query: "genus:Aidablennius specificepithet:sphynx" ; Times: 1
+	Query: "scientificname:(Etheostoma tippecanoe) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:klamathensis" ; Times: 1
+	Query: "scientificname:(Etheostoma cinereum) country:United States mappable:1" ; Times: 1
+	Query: "genus:Lepomis specificepithet:marginatus" ; Times: 1
+	Query: "scientificname:(Percina cymatotaenia) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:perplexus" ; Times: 1
+	Query: "genus:Hydrolagus specificepithet:alberti" ; Times: 1
+	Query: "genus:Cottus specificepithet:marginatus" ; Times: 1
+	Query: "genus:Cottus specificepithet:amblystomopsis" ; Times: 1
+	Query: "specificepithet:claviformis genus:erimyzon hastissue:1" ; Times: 1
+	Query: "specificepithet:camurum genus:etheostoma stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "scientificname:(Noturus furiosus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Dionda county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:nozawae" ; Times: 1
+	Query: "genus:Geophagus specificepithet:crassilabris" ; Times: 1
+	Query: "genus:Anarchopterus specificepithet:criniger" ; Times: 1
+	Query: "genus:Cottus specificepithet:extensus" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 1
+	Query: "genus:Ichthyomyzon specificepithet:bdellium" ; Times: 1
+	Query: "genus:Cottus specificepithet:tenuis" ; Times: 1
+	Query: "scientificname:(Etheostoma osburni) country:United States mappable:1" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "scientificname:(Notropis ozarcanus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:baileyi" ; Times: 1
+	Query: "genus:Cottus specificepithet:ricei" ; Times: 1
+	Query: "genus:Cottus specificepithet:pitensis" ; Times: 1
+	Query: "scientificname:(Notropis amplamala) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Gila atraria) country:United States mappable:1" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "genus:Cottus specificepithet:rhotheus" ; Times: 1
+	Query: "scientificname:(Etheostoma trisella) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:alburnus genus:Alburnus hastissue:1" ; Times: 1
+	Query: "scientificname:(Noturus gladiator) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:greenei" ; Times: 1
+	Query: "genus:Coryphoblennius specificepithet:galerita" ; Times: 1
+	Query: "scientificname:(Notropis perpallidus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Fundulus julisia) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:pollux" ; Times: 1
+	Query: "scientificname:(Percina kusha) country:United States mappable:1" ; Times: 2
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "genus:Cottus specificepithet:leiopomus" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "south carolina specificepithet:sucetta genus:erimyzon hastissue:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:princeps" ; Times: 1
+	Query: "scientificname:(Etheostoma brevirostrum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma forbesi) country:United States mappable:1" ; Times: 1
+	Query: "Percina rex mappable:1" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:bonasus" ; Times: 1
+	Query: "genus:Acantharchus specificepithet:pomotis" ; Times: 1
+	Query: "scientificname:(Percina nasuta) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Noturus gilberti) country:United States mappable:1" ; Times: 1
+	Query: "genus:Etheostoma specificepithet:maculatum" ; Times: 1
+	Query: "scientificname:(Notropis stramineus OR Notropis ludibundus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "(&#34;Turtle Creek&#34;)" ; Times: 1
+	Query: "Macroramphosidae" ; Times: 1
+	Query: "genus:Neobythites specificepithet:gilli" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antillarum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 985 download events in this period)
+Total number of records downloaded: 1108
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Protopterus" ; Times: 3
+	Query: "class:Actinopterygii country:&#34;colombia&#34;" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+	Query: "genus:Macrhybopsis stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
