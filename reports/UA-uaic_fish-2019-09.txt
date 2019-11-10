@@ -1,0 +1,146 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 550
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 35
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 43
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 4
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 5
+	Date: 2019-09-10 ; Times: 30
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 6
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 9
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-03 ; Times: 16
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-05 ; Times: 9
+	Date: 2019-09-04 ; Times: 7
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-22 ; Times: 4
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "Serranus notospilus mappable:1" ; Times: 1
+	Query: "Odontaspis" ; Times: 1
+	Query: "Carcharhinus signatus mappable:1" ; Times: 1
+	Query: "specificepithet:carolinus genus:prionotus hastissue:1" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 5
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "Mullus auratus mappable:1" ; Times: 5
+	Query: "Antigonia combatia mappable:1" ; Times: 1
+	Query: "Calamus penna mappable:1" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 3
+	Query: "specificepithet:miurus genus:Noturus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 3
+	Query: "Tautogolabrus adspersus mappable:1" ; Times: 1
+	Query: "Zalieutes mcgintyi" ; Times: 1
+	Query: "class:Actinopterygii locality:Limpia Creek stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vitreus Sander" ; Times: 4
+	Query: "genus:Cyprinodon stateprovince:&#34;Chihuahua&#34;" ; Times: 3
+	Query: "genus:peristedion hastissue:1" ; Times: 2
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "Uraspis secunda mappable:1" ; Times: 1
+	Query: "Aluterus heudeloti mappable:1" ; Times: 1
+	Query: "Mordacia mordax" ; Times: 3
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "Torpedo nobiliana mappable:1" ; Times: 1
+	Query: "Cyprinella callitaenia" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;DeKalb&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "americanus clarke" ; Times: 1
+	Query: "Beryx splendens mappable:1" ; Times: 1
+	Query: "class:Actinopterygii locality:Rio ramos country:&#34;México&#34;" ; Times: 14
+	Query: "Synagrops spinosus mappable:1" ; Times: 1
+	Query: "specificepithet:septemfasciatum" ; Times: 1
+	Query: "specificepithet:mcgintyi genus:Zalieutes hastissue:1" ; Times: 1
+	Query: "Ophidion beani mappable:1" ; Times: 1
+	Query: "12770.01" ; Times: 1
+	Query: "Citharichthys gymnorhinus mappable:1" ; Times: 1
+	Query: "Pontinus rathbuni mappable:1" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "hyphessobrycon hastissue:1" ; Times: 1
+	Query: "12113.01" ; Times: 1
+	Query: "Geotria australis" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "Notropis melanostomus" ; Times: 3
+	Query: "class:Actinopterygii locality:Río ramos country:&#34;México&#34;" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "specificepithet:septemfasciatum country:&#34;Panama&#34; OR &#34;Costa Rica&#34;" ; Times: 1
+	Query: "Lampetra hubbsi" ; Times: 1
+	Query: "specificepithet:camurum genus:etheostoma stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:evolans genus:prionotus hastissue:1" ; Times: 1
+	Query: "Syngnathus springeri mappable:1" ; Times: 1
+	Query: "Hypsoblennius hentz mappable:1" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "Poecilopsetta beanii mappable:1" ; Times: 1
+	Query: "Rypticus bistrispinus mappable:1" ; Times: 1
+	Query: "Prionotus paralatus mappable:1" ; Times: 1
+	Query: "specificepithet:ornatum genus:Campostoma stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "specificepithet:septemfasciatum country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Astroscopus y-graecum mappable:1" ; Times: 1
+	Query: "Hitchcock creek" ; Times: 1
+	Query: "raja eglanteria" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1800 year &lt;= 1990" ; Times: 1
+	Query: "Prionotus longispinosus mappable:1" ; Times: 1
+	Query: "Pontinus longispinis mappable:1" ; Times: 1
+	Query: "Polydactylus octonemus mappable:1" ; Times: 1
+	Query: "specificepithet:variatum genus:etheostoma stateprovince:&#34;ohio&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1073 download events in this period)
+Total number of records downloaded: 165
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "family:Geotriidae" ; Times: 1
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+
+
+End of report.
