@@ -1,0 +1,106 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 764
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: United States ; Times: 75
+	Country: Portugal ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 43
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 4
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-15 ; Times: 9
+	Date: 2019-11-07 ; Times: 6
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-16 ; Times: 3
+	Date: 2019-11-11 ; Times: 10
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-24 ; Times: 17
+	Date: 2019-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "collectioncode:UAIC" ; Times: 2
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "Barbus megastoma" ; Times: 5
+	Query: "Barbus macrophthalmus" ; Times: 3
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "epinephelus hastissue:1" ; Times: 1
+	Query: "Cyprinus carpio vntype:specimen hastissue:1" ; Times: 3
+	Query: "Uraspis secunda" ; Times: 2
+	Query: "Barbus surkis" ; Times: 5
+	Query: "collectioncode:UAIC year &gt;= 2005" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "cichla hastissue:1" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 3
+	Query: "matson 7511" ; Times: 2
+	Query: "etmopterus" ; Times: 2
+	Query: "Barbus tsaniensis" ; Times: 4
+	Query: "specificepithet:sucetta genus:erimyzon stateprovince:&#34;michigan&#34; year &gt;= 200 year &lt;= 2019" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 1
+	Query: "geophagus hastissue:1" ; Times: 2
+	Query: "Barbus tanapelagius" ; Times: 2
+	Query: "Clupea harengus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Abramis bjoerkna" ; Times: 1
+	Query: "class:Actinopterygii locality:Rio ramos country:&#34;México&#34;" ; Times: 2
+	Query: "Barbus nedgia" ; Times: 5
+	Query: "aluterus scriptus" ; Times: 1
+	Query: "specificepithet:lirus genus:Lythrurus collectioncode:UAIC year &gt;= 2005 month &gt;= 5" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "hyphessobrycon hastissue:1" ; Times: 7
+	Query: "Barbus crassibarbus" ; Times: 4
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Barbus truttiformis" ; Times: 5
+	Query: "Acrocheilus alutaceus" ; Times: 3
+	Query: "Barbus gorgoriensis" ; Times: 4
+	Query: "Barbus acutirostris" ; Times: 5
+	Query: "Barbus intermedius" ; Times: 6
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "matson 7503" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "genus:Odontaspis" ; Times: 1
+	Query: "Barbus gorguari" ; Times: 4
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "serrasalmus hastissue:1" ; Times: 3
+	Query: "Leuciscus rutilus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1367 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sucetta genus:erimyzon stateprovince:&#34;south carolina&#34; year &gt;= 200 year &lt;= 2019" ; Times: 2
+	Query: "etmopterus" ; Times: 1
+	Query: "Acrocheilus alutaceus" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+
+
+End of report.
