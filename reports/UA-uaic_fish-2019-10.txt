@@ -1,0 +1,156 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 843
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: Indonesia ; Times: 1
+	Country: United Kingdom ; Times: 16
+	Country: China ; Times: 1
+	Country: New Zealand ; Times: 80
+	Country: United States ; Times: 26
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-23 ; Times: 46
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-24 ; Times: 45
+	Date: 2019-10-16 ; Times: 16
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 8
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-21 ; Times: 9
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Raja texana" ; Times: 2
+	Query: "class:Actinopterygii county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crystallaria asprella" ; Times: 1
+	Query: "Etmopterus princeps" ; Times: 2
+	Query: "Etmopterus bullisi" ; Times: 1
+	Query: "vitreus Sander" ; Times: 2
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "Dipturus olseni" ; Times: 2
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "institutioncode:UA" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "Pervagor spilosoma mappable:1" ; Times: 2
+	Query: "specificepithet:teddyroosevelt genus:Etheostoma" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "Myliobatis freminvillei" ; Times: 2
+	Query: "percina nasuta" ; Times: 2
+	Query: "Eremichthys acros" ; Times: 1
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "amarus Rhodeus" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Mustelus canis" ; Times: 2
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "Leucoraja erinacea" ; Times: 2
+	Query: "Fenestraja plutonia" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "Harriotta raleighana" ; Times: 1
+	Query: "Carcharhinus signatus" ; Times: 2
+	Query: "Etheostoma rafinesquei" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 2
+	Query: "Narcine bancroftii" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 2
+	Query: "Sander lucioperca" ; Times: 1
+	Query: "Pristis perotteti" ; Times: 1
+	Query: "Apristurus indicus" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "Etmopterus hillianus" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "krameri Umbra" ; Times: 1
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "temensis Cichla" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Aluterus schoepfii" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Galeus arae" ; Times: 1
+	Query: "Squalus cubensis" ; Times: 2
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Percina brevicauda" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "locality:Farquhar Island year &gt;= 1964 year &lt;= 1964" ; Times: 1
+	Query: "Anacanthobatis folirostris" ; Times: 2
+	Query: "Etmopterus virens" ; Times: 1
+	Query: "Amblyraja radiata" ; Times: 2
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 2
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "asper Cottus" ; Times: 4
+	Query: "hhh" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Hydrolagus alberti" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 3
+	Query: "Hydrolagus affinis" ; Times: 2
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "class:Actinopterygii locality:Rio ramos country:&#34;México&#34;" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Aluterus schoepfii mappable:1" ; Times: 4
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Etmopterus schultzi" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "H 6378-16" ; Times: 1
+	Query: "Percina oxyrhynchus" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1308 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "genus:Gobius" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+
+
+End of report.
