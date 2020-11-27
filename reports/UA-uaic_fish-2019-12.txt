@@ -1,0 +1,263 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1386
+Number of records retrieved in searches: 7038
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Portugal ; Times: 8
+	Country: Singapore ; Times: 1
+	Country: Indonesia ; Times: 10
+	Country: France ; Times: 1339
+	Country: United States ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 3
+	Date: 2019-12-27 ; Times: 142
+	Date: 2019-12-26 ; Times: 193
+	Date: 2019-12-21 ; Times: 358
+	Date: 2019-12-20 ; Times: 262
+	Date: 2019-12-22 ; Times: 42
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-31 ; Times: 53
+	Date: 2019-12-28 ; Times: 28
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-18 ; Times: 68
+	Date: 2019-12-19 ; Times: 183
+	Date: 2019-12-16 ; Times: 8
+	Date: 2019-12-09 ; Times: 12
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-06 ; Times: 4
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-13 ; Times: 8
+	Date: 2019-12-02 ; Times: 4
+	Date: 2019-12-01 ; Times: 3
+	Date: 2019-12-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Sardinella aurita mappable:1" ; Times: 2
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 2
+	Query: "Haemulon album mappable:1" ; Times: 9
+	Query: "specificepithet:phoebe year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Polydactylus oligodon mappable:1" ; Times: 1
+	Query: "Lutjanus vivanus mappable:1" ; Times: 6
+	Query: "Starksia ocellata mappable:1" ; Times: 7
+	Query: "Nicholsina usta usta mappable:1" ; Times: 2
+	Query: "Holacanthus ciliaris mappable:1" ; Times: 5
+	Query: "Bellator egretta mappable:1" ; Times: 2
+	Query: "Anchoa lamprotaenia mappable:1" ; Times: 14
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 2
+	Query: "Malacocephalus occidentalis mappable:1" ; Times: 4
+	Query: "county:&#34;rowan&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 7
+	Query: "Ariomma regulus mappable:1" ; Times: 12
+	Query: "Megalops atlanticus mappable:1" ; Times: 11
+	Query: "Seriola dumerili mappable:1" ; Times: 3
+	Query: "Tylosurus acus acus mappable:1" ; Times: 13
+	Query: "Dibranchus atlanticus mappable:1" ; Times: 8
+	Query: "Scarus taeniopterus mappable:1" ; Times: 5
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 11
+	Query: "Scomberomorus cavalla mappable:1" ; Times: 2
+	Query: "Cosmocampus elucens mappable:1" ; Times: 3
+	Query: "Strongylura timucu mappable:1" ; Times: 18
+	Query: "Benthodesmus tenuis mappable:1" ; Times: 2
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 8
+	Query: "Chaetodon sedentarius mappable:1" ; Times: 11
+	Query: "Lythrypnus nesiotes mappable:1" ; Times: 9
+	Query: "Haemulon sciurus mappable:1" ; Times: 9
+	Query: "Pomacanthus arcuatus mappable:1" ; Times: 5
+	Query: "Dactyloscopus crossotus mappable:1" ; Times: 16
+	Query: "Trinectes inscriptus mappable:1" ; Times: 19
+	Query: "Nomeus gronovii mappable:1" ; Times: 4
+	Query: "genus:Leptolucania hastissue:1" ; Times: 1
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 12
+	Query: "Aluterus scriptus mappable:1" ; Times: 6
+	Query: "Sphoeroides testudineus mappable:1" ; Times: 5
+	Query: "Anchoa lyolepis mappable:1" ; Times: 14
+	Query: "Echiophis punctifer mappable:1" ; Times: 9
+	Query: "Rypticus bistrispinus mappable:1" ; Times: 4
+	Query: "Chromis insolata mappable:1" ; Times: 5
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Ablennes hians mappable:1" ; Times: 18
+	Query: "Sphoeroides nephelus mappable:1" ; Times: 5
+	Query: "Rachycentron canadum mappable:1" ; Times: 2
+	Query: "Decodon puellaris mappable:1" ; Times: 11
+	Query: "Chloroscombrus chrysurus mappable:1" ; Times: 3
+	Query: "Synodus poeyi mappable:1" ; Times: 2
+	Query: "county:&#34;lawrence&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Scorpaena albifimbria mappable:1" ; Times: 5
+	Query: "Mustelus canis mappable:1" ; Times: 2
+	Query: "Lutjanus synagris mappable:1" ; Times: 6
+	Query: "noturus placidus" ; Times: 10
+	Query: "Oxyporhamphus micropterus micropterus mappable:1" ; Times: 2
+	Query: "month &gt;= 12 month &lt;= 12 distance(location,geopoint(30.388861411120605,-87.20508770512714))&lt;15604" ; Times: 1
+	Query: "Labrisomus haitiensis mappable:1" ; Times: 3
+	Query: "Calamus penna mappable:1" ; Times: 2
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 3
+	Query: "Caranx crysos mappable:1" ; Times: 3
+	Query: "Polymixia lowei mappable:1" ; Times: 6
+	Query: "Acanthostracion quadricornis mappable:1" ; Times: 5
+	Query: "Elops saurus mappable:1" ; Times: 14
+	Query: "Trichiurus lepturus mappable:1" ; Times: 2
+	Query: "gladiator" ; Times: 1
+	Query: "Achirus lineatus mappable:1" ; Times: 10
+	Query: "Lythrypnus elasson mappable:1" ; Times: 9
+	Query: "Echeneis naucrates mappable:1" ; Times: 2
+	Query: "Scarus iseri mappable:1" ; Times: 5
+	Query: "Polyipnus asteroides mappable:1" ; Times: 4
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 9
+	Query: "Halichoeres bivittatus mappable:1" ; Times: 9
+	Query: "Trachinocephalus myops mappable:1" ; Times: 2
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 8
+	Query: "Lutjanus griseus mappable:1" ; Times: 6
+	Query: "Squalus cubensis mappable:1" ; Times: 4
+	Query: "Fistularia tabacaria mappable:1" ; Times: 12
+	Query: "Carassius gibelio" ; Times: 1
+	Query: "specificepithet:aurora county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 5
+	Query: "Diapterus auratus mappable:1" ; Times: 15
+	Query: "Pristipomoides aquilonaris mappable:1" ; Times: 9
+	Query: "Anisotremus virginicus mappable:1" ; Times: 9
+	Query: "Trachinotus carolinus mappable:1" ; Times: 3
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Priacanthus arenatus mappable:1" ; Times: 5
+	Query: "Opisthonema oglinum mappable:1" ; Times: 17
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 12
+	Query: "Erotelis smaragdus mappable:1" ; Times: 15
+	Query: "Equetus lanceolatus mappable:1" ; Times: 5
+	Query: "Mycteroperca bonaci mappable:1" ; Times: 6
+	Query: "Symphurus plagiusa mappable:1" ; Times: 8
+	Query: "specificepithet:hypselurus genus:Cottus" ; Times: 1
+	Query: "Bembrops gobioides mappable:1" ; Times: 6
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 2
+	Query: "Chaetodipterus faber mappable:1" ; Times: 10
+	Query: "Glossanodon pygmaeus mappable:1" ; Times: 12
+	Query: "Ipnops murrayi mappable:1" ; Times: 4
+	Query: "Sphyraena guachancho mappable:1" ; Times: 2
+	Query: "Risor ruber mappable:1" ; Times: 11
+	Query: "Istiophorus platypterus mappable:1" ; Times: 2
+	Query: "Atherinomorus stipes mappable:1" ; Times: 17
+	Query: "Sardinella brasiliensis mappable:1" ; Times: 1
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 13
+	Query: "Upeneus parvus mappable:1" ; Times: 39
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 6
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 9
+	Query: "Lutjanus analis mappable:1" ; Times: 6
+	Query: "Selene setapinnis mappable:1" ; Times: 3
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 13
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 12
+	Query: "Synodus intermedius mappable:1" ; Times: 2
+	Query: "Hyporhamphus unifasciatus mappable:1" ; Times: 11
+	Query: "Echeneis neucratoides mappable:1" ; Times: 2
+	Query: "Caranx latus mappable:1" ; Times: 3
+	Query: "Diplectrum formosum mappable:1" ; Times: 4
+	Query: "Evorthodus lyricus mappable:1" ; Times: 11
+	Query: "Monacanthus ciliatus mappable:1" ; Times: 2
+	Query: "Lobotes surinamensis mappable:1" ; Times: 2
+	Query: "Cheilopogon exsiliens mappable:1" ; Times: 2
+	Query: "Chlorophthalmus agassizi mappable:1" ; Times: 2
+	Query: "Syacium gunteri mappable:1" ; Times: 6
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 13
+	Query: "Harengula jaguana mappable:1" ; Times: 16
+	Query: "Balistes capriscus mappable:1" ; Times: 13
+	Query: "Chilomycterus antillarum mappable:1" ; Times: 11
+	Query: "Rhodeus sericeus" ; Times: 4
+	Query: "Antennarius striatus mappable:1" ; Times: 12
+	Query: "Mullus auratus mappable:1" ; Times: 38
+	Query: "Halichoeres radiatus mappable:1" ; Times: 9
+	Query: "Peprilus paru mappable:1" ; Times: 2
+	Query: "Eucinostomus gula mappable:1" ; Times: 10
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 11
+	Query: "Seriola zonata mappable:1" ; Times: 3
+	Query: "Xyrichtys novacula mappable:1" ; Times: 3
+	Query: "Centropomus undecimalis mappable:1" ; Times: 16
+	Query: "Stephanolepis hispidus mappable:1" ; Times: 8
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 2
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 9
+	Query: "Lutjanus mahogoni mappable:1" ; Times: 6
+	Query: "Labrisomus nuchipinnis mappable:1" ; Times: 9
+	Query: "Serranus atrobranchus mappable:1" ; Times: 4
+	Query: "Serranus phoebe mappable:1" ; Times: 4
+	Query: "Sparisoma radians mappable:1" ; Times: 2
+	Query: "Haemulon macrostomum mappable:1" ; Times: 9
+	Query: "Eleotris pisonis mappable:1" ; Times: 14
+	Query: "Paraclinus nigripinnis mappable:1" ; Times: 2
+	Query: "genus:Lucania hastissue:1" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 5
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 10
+	Query: "Epinephelus adscensionis mappable:1" ; Times: 5
+	Query: "Decapterus punctatus mappable:1" ; Times: 3
+	Query: "Aluterus monoceros mappable:1" ; Times: 6
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 30
+	Query: "Ogcocephalus nasutus mappable:1" ; Times: 8
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 5
+	Query: "Ctenogobius boleosoma mappable:1" ; Times: 10
+	Query: "Scophthalmus aquosus mappable:1" ; Times: 7
+	Query: "Rhomboplites aurorubens mappable:1" ; Times: 8
+	Query: "Hippocampus erectus mappable:1" ; Times: 2
+	Query: "Hypoplectrus unicolor mappable:1" ; Times: 5
+	Query: "Brotula barbata mappable:1" ; Times: 8
+	Query: "Gerres cinereus mappable:1" ; Times: 14
+	Query: "L. R. Wolfe" ; Times: 1
+	Query: "Selene vomer mappable:1" ; Times: 3
+	Query: "Dormitator maculatus mappable:1" ; Times: 13
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "Stomias affinis mappable:1" ; Times: 4
+	Query: "Lactophrys triqueter mappable:1" ; Times: 5
+	Query: "vntype:specimen locality:mayport county:&#34;Duval&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Ostichthys trachypoma mappable:1" ; Times: 9
+	Query: "Jenkinsia lamprotaenia mappable:1" ; Times: 18
+	Query: "Seriola rivoliana mappable:1" ; Times: 3
+	Query: "Chaunax suttkusi mappable:1" ; Times: 4
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 18
+	Query: "Epinephelus morio mappable:1" ; Times: 5
+	Query: "Lutjanus cyanopterus mappable:1" ; Times: 6
+	Query: "Stegastes leucostictus mappable:1" ; Times: 5
+	Query: "Aluterus schoepfii mappable:1" ; Times: 8
+	Query: "Lepophidium brevibarbe mappable:1" ; Times: 8
+	Query: "Paralichthys dentatus mappable:1" ; Times: 9
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 11
+	Query: "Lutjanus apodus mappable:1" ; Times: 6
+	Query: "Lactophrys trigonus mappable:1" ; Times: 5
+	Query: "Halichoeres caudalis mappable:1" ; Times: 9
+	Query: "Parablennius marmoreus mappable:1" ; Times: 3
+	Query: "Oligoplites saurus mappable:1" ; Times: 3
+	Query: "Varicorhinus beso" ; Times: 3
+	Query: "Anchoa cubana mappable:1" ; Times: 15
+	Query: "&#34;Rhodeus sericeus&#34;" ; Times: 2
+	Query: "Trachinotus falcatus mappable:1" ; Times: 3
+	Query: "Alectis ciliaris mappable:1" ; Times: 3
+	Query: "Albula vulpes mappable:1" ; Times: 18
+	Query: "Diplectrum bivittatum mappable:1" ; Times: 4
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "Scorpaena brasiliensis mappable:1" ; Times: 5
+	Query: "Cantherhines pullus mappable:1" ; Times: 6
+	Query: "Parexocoetus brachypterus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 596 download events in this period)
+Total number of records downloaded: 59
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hypselurus genus:Cottus" ; Times: 1
+	Query: "fish vntype:specimen (new york) hastissue:1" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "&#34;Rhodeus sericeus&#34;" ; Times: 1
+
+
+End of report.
