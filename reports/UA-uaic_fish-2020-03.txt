@@ -1,0 +1,83 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 300
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: United Kingdom ; Times: 4
+	Country: Venezuela ; Times: 7
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-26 ; Times: 7
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-31 ; Times: 2
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 7
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-16 ; Times: 5
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-11 ; Times: 8
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "county:&#34;Atkinson&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Springeria" ; Times: 3
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma tennesseense) country:United States mappable:1" ; Times: 1
+	Query: "Scarus dubius mappable:1" ; Times: 1
+	Query: "Percina lenticula" ; Times: 1
+	Query: "Scarus taeniopterus mappable:1" ; Times: 1
+	Query: "macrhybopsis gelida" ; Times: 2
+	Query: "Sarda chiliensis" ; Times: 1
+	Query: "scientificname:(Etheostoma planasaxatile) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:clinton genus:Etheostoma" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Etheostoma ditrema" ; Times: 3
+	Query: "Atherinomorus stipes mappable:1" ; Times: 2
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 2
+	Query: "scientificname:(Etheostoma orientale) country:United States mappable:1" ; Times: 1
+	Query: "Centrophorus uyato" ; Times: 1
+	Query: "prionotus alatus" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "Macrhybopsis meeki" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "specificepithet:alatus genus:prionotus hastissue:1" ; Times: 1
+	Query: "Macrhybopsis marconis" ; Times: 1
+	Query: "Scarus iseri mappable:1" ; Times: 1
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "Macrhybopsis tetranema" ; Times: 1
+	Query: "scientificname:(Etheostoma occidentale) country:United States mappable:1" ; Times: 1
+	Query: "cobitis taenia" ; Times: 2
+	Query: "Coryphaena hippurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 853 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cobitis taenia" ; Times: 1
+
+
+End of report.
