@@ -1,0 +1,131 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 330
+Number of records retrieved in searches: 1715
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 295
+	Country: Peru ; Times: 5
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 3
+	Date: 2020-06-18 ; Times: 2
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 9
+	Date: 2020-06-15 ; Times: 44
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 108
+	Date: 2020-06-11 ; Times: 108
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-17 ; Times: 35
+	Date: 2020-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 3
+	Query: "Salmo salar" ; Times: 9
+	Query: "etheostoma vulneratum" ; Times: 2
+	Query: "Salmo trutta" ; Times: 9
+	Query: "recordedby:W.w. wood" ; Times: 1
+	Query: "Cheilopogon exsiliens" ; Times: 6
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Etheostoma vulneratum" ; Times: 1
+	Query: "Esox lucius" ; Times: 8
+	Query: "Cottus perplexus" ; Times: 6
+	Query: "family:batrachoididae hastissue:1" ; Times: 4
+	Query: "vntype:specimen (batrachoididae) hastissue:1" ; Times: 1
+	Query: "oblada melanura" ; Times: 1
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Cichla temensis" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Mastacembelus armatus" ; Times: 6
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "Sabanejewia larvata" ; Times: 1
+	Query: "RT 318" ; Times: 1
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Clarias gariepinus" ; Times: 9
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Etheostoma kanawhae" ; Times: 1
+	Query: "monocirrhus polyacanthus" ; Times: 1
+	Query: "Arius arius" ; Times: 12
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Lampetra fluviatilis" ; Times: 3
+	Query: "locality:celo county:&#34;Yancey&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Sarotherodon melanotheron" ; Times: 12
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "Hypophthalmichthys nobilis" ; Times: 6
+	Query: "Piaractus brachypomus" ; Times: 6
+	Query: "Cottus asper" ; Times: 6
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "Cottus gobio" ; Times: 6
+	Query: "Clupea harengus" ; Times: 11
+	Query: "Microglanis poecilus" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 12
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "RT 287" ; Times: 1
+	Query: "Cottus poecilopus" ; Times: 6
+	Query: "Leucaspius delineatus" ; Times: 6
+	Query: "racoon" ; Times: 1
+	Query: "Gyrinocheilus aymonieri" ; Times: 9
+	Query: "Carassius carassius" ; Times: 6
+	Query: "Oreochromis aureus" ; Times: 6
+	Query: "carassius gibelio" ; Times: 1
+	Query: "Cottus ricei" ; Times: 6
+	Query: "Cottus cognatus" ; Times: 6
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "Geophagus steindachneri" ; Times: 1
+	Query: "Abramis brama" ; Times: 6
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "scientificname:(Lutjanus apodus) country:United States mappable:1" ; Times: 2
+	Query: "Cottus pollux" ; Times: 6
+	Query: "bull frog" ; Times: 1
+	Query: "scientificname:(Lutjanus griseus) country:United States mappable:1" ; Times: 2
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "Scomber colias" ; Times: 6
+	Query: "Coregonus clupeaformis" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 474 download events in this period)
+Total number of records downloaded: 121
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Turkey ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "locality:kentucky" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "carassius gibelio" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 1
+	Query: "Etheostoma kanawhae" ; Times: 1
+	Query: "bull frog" ; Times: 1
+
+
+End of report.
