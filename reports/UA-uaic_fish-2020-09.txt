@@ -1,0 +1,140 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 358
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Austria ; Times: 1
+	Country: Finland ; Times: 1
+	Country: France ; Times: 72
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 23
+	Date: 2020-09-17 ; Times: 19
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-18 ; Times: 24
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-25 ; Times: 4
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Parablennius gattorugine" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 1
+	Query: "Centrophorus uyato" ; Times: 1
+	Query: "Parablennius incognitus" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Gobius paganellus" ; Times: 1
+	Query: "Seriola rivoliana" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 1
+	Query: "Anthias anthias" ; Times: 1
+	Query: "Ariosoma balearicum" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "Beryx splendens" ; Times: 2
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Diplodus annularis" ; Times: 1
+	Query: "Caranx crysos" ; Times: 1
+	Query: "balleza" ; Times: 1
+	Query: "Etrumeus teres" ; Times: 1
+	Query: "Tetrapturus albidus" ; Times: 1
+	Query: "Coryphoblennius galerita" ; Times: 1
+	Query: "Bocoyna chihuahua" ; Times: 1
+	Query: "Megalops atlanticus country:&#34;United States&#34;" ; Times: 2
+	Query: "Gobius bucchichi" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "Seriola dumerili" ; Times: 1
+	Query: "blackfoot river" ; Times: 2
+	Query: "Gadella maraldi" ; Times: 1
+	Query: "Clinitrachus argentatus" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 1
+	Query: "Caranx hippos" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "Hymenocephalus italicus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Nerophis maculatus" ; Times: 1
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "bocoyna chihuahua" ; Times: 4
+	Query: "Sarpa salpa" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Diplodus vulgaris" ; Times: 1
+	Query: "Exocoetus obtusirostris" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "Sardinella aurita" ; Times: 1
+	Query: "Callionymus pusillus" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 1
+	Query: "Sphoeroides pachygaster" ; Times: 1
+	Query: "Istiophorus platypterus" ; Times: 1
+	Query: "Xyrichtys novacula" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Aidablennius sphynx" ; Times: 1
+	Query: "Helicolenus dactylopterus" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Gobius fallax" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Phycis phycis" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 1
+	Query: "Lobotes surinamensis" ; Times: 1
+	Query: "recordedby:Stansbury" ; Times: 1
+	Query: "Parablennius zvonimiri" ; Times: 1
+	Query: "Parablennius sanguinolentus" ; Times: 1
+	Query: "Hoplostethus mediterraneus" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Sphoeroides spengleri" ; Times: 1
+	Query: "Oblada melanura" ; Times: 1
+	Query: "county:&#34;marshall&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "heterodon wisconsin" ; Times: 1
+	Query: "Lepadogaster lepadogaster" ; Times: 1
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "Seriola fasciata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 976 download events in this period)
+Total number of records downloaded: 1811
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tabasco" ; Times: 1
+	Query: "specificepithet:evolans genus:prionotus hastissue:1" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Gambusia" ; Times: 1
+
+
+End of report.
