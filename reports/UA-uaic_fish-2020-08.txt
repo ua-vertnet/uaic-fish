@@ -1,0 +1,127 @@
+Report for Institution Code UA, Resource uaic_fish
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 273
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Honduras ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 6
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 13
+	Country: Austria ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 4
+	Date: 2020-08-28 ; Times: 4
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-10 ; Times: 3
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-03 ; Times: 4
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-12 ; Times: 10
+	Date: 2020-08-11 ; Times: 2
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-26 ; Times: 5
+	Date: 2020-08-27 ; Times: 19
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-21 ; Times: 18
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-19 ; Times: 3
+	Date: 2020-08-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cottus pitensis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Noturus taylori" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "Benthophilus stellatus" ; Times: 2
+	Query: "Sarotherodon melanotheron" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;32713" ; Times: 1
+	Query: "Cyprinella venusta vntype:specimen hastissue:1" ; Times: 1
+	Query: "Cottus bairdi stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "Profundulus guatemalensis" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.23745614638836,-118.98292557217088))&lt;26138.492445553376" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;26138.492445553376" ; Times: 1
+	Query: "genus:Mugil cephalus distance(location,geopoint(33.784707579162436,-118.96901346686928))&lt;100000" ; Times: 13
+	Query: "Cottus beldingi stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Cottus gulosus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Argyropelecus aculeatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:congestum genus:Moxostoma hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:elongatus genus:Cycleptus hastissue:1" ; Times: 2
+	Query: "Cottus princeps stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 1
+	Query: "catalognumber:11224.01" ; Times: 1
+	Query: "Atherinella blackburni" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 7
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "specificepithet:granulosus genus:Centrophorus" ; Times: 1
+	Query: "Cottus klamathensis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "Trinectes inscriptus" ; Times: 1
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Fundulus zebrinus (pecos) AND (texas)" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Istiophorus platypterus" ; Times: 3
+	Query: "percina nasuta" ; Times: 2
+	Query: "specificepithet:asper genus:Cottus stateprovince:&#34;washington&#34;" ; Times: 2
+	Query: "Ophisternon aenigmaticum" ; Times: 1
+	Query: "atractoscion nobilis" ; Times: 4
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "scientificname:(Fundulus rathbuni) country:United States mappable:1" ; Times: 1
+	Query: "nerophis" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "characodon lateralis" ; Times: 1
+	Query: "Leptocottus armatus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 1
+	Query: "specificepithet:congestum genus:Moxostoma hastissue:1" ; Times: 1
+	Query: "Ameiurus serracanthus" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 756 download events in this period)
+Total number of records downloaded: 91
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-26 ; Times: 2
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "atractoscion nobilis" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.17385436955003,-119.15870682217088))&lt;100000" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;32713" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
